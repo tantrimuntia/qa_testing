@@ -1,0 +1,16 @@
+/BestResponseTimeBalanceStrategy.java
+/FailoverConnectionProxy.java
+/LoadBalancedAutoCommitInterceptor.java
+/LoadBalancedConnectionProxy.java
+/LoadBalancedMySQLConnection.java
+/MultiHostConnectionProxy.java
+/MultiHostMySQLConnection.java
+/NdbLoadBalanceExceptionChecker.java
+/RandomBalanceStrategy.java
+/ReplicationConnectionGroup.java
+/ReplicationConnectionGroupManager.java
+/ReplicationConnectionProxy.java
+/ReplicationMySQLConnection.java
+/SequentialBalanceStrategy.java
+/ServerAffinityStrategy.java
+/StandardLoadBalanceExceptionChecker.java

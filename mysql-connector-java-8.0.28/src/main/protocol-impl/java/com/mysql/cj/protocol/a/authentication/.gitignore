@@ -1,0 +1,8 @@
+/AuthenticationKerberosClient.java
+/AuthenticationLdapSaslClientPlugin.java
+/AuthenticationOciClient.java
+/CachingSha2PasswordPlugin.java
+/MysqlClearPasswordPlugin.java
+/MysqlNativePasswordPlugin.java
+/MysqlOldPasswordPlugin.java
+/Sha256PasswordPlugin.java

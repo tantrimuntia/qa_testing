@@ -1,0 +1,7 @@
+/CompressedPacketSenderTest.java
+/DebugBufferingPacketSenderTest.java
+/MysqlBinaryValueDecoderTest.java
+/MysqlTextValueDecoderTest.java
+/PacketSenderTestBase.java
+/SimplePacketReaderTest.java
+/SimplePacketSenderTest.java

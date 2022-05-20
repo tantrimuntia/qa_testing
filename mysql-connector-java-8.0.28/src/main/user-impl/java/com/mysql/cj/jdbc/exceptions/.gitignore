@@ -1,0 +1,12 @@
+/CommunicationsException.java
+/ConnectionFeatureNotAvailableException.java
+/MySQLQueryInterruptedException.java
+/MySQLStatementCancelledException.java
+/MySQLTimeoutException.java
+/MySQLTransactionRollbackException.java
+/MysqlDataTruncation.java
+/NotUpdatable.java
+/OperationNotSupportedException.java
+/PacketTooBigException.java
+/SQLError.java
+/SQLExceptionsMapping.java
